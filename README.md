@@ -10,12 +10,8 @@
 
 ## 🚀 What I'm building
 
-- **AI voice agents** — real-time assistants that pick up the phone, talk and follow up
 - **Clinic management platform** — AI-powered operations for hair transplant, aesthetic and dental clinics
 - **Voice-to-agent recorder** — an iPhone app that turns meetings into action items and hands them straight to a coding agent
-- **Sportsbook platform** — a multi-jurisdiction, high-performance betting platform built for third-party integration
-- **Browser agents** — agents that take one goal and navigate the web to get it done
-- **AI content pipelines** — generation, scheduling and publishing on autopilot
 
 ## 🧰 Stack
 
