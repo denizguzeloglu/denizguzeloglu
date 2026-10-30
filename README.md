@@ -10,9 +10,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denizguzeloglu/denizguzeloglu/output/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denizguzeloglu/denizguzeloglu/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/denizguzeloglu/denizguzeloglu/output/snake.svg" width="100%" alt="Snake eating my contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denizguzeloglu/denizguzeloglu/refs/heads/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denizguzeloglu/denizguzeloglu/refs/heads/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/denizguzeloglu/denizguzeloglu/refs/heads/output/snake.svg" width="100%" alt="Snake eating my contribution graph" />
   </picture>
 </p>
 
